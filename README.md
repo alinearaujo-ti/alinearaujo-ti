@@ -11,6 +11,6 @@
 <a href="https://www.instagram.com/alinearaujo.ti/" target="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.facebook.com/alinearaujo.ti" target="_blank"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"> 
 
-![Snake animation]  (https://github.com/alinearaujo-ti/alinearaujo-ti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alinearaujo-ti/alinearaujo-ti/blob/output/github-contribution-grid-snake.svg)
 </div>
 
